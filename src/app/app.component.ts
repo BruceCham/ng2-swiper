@@ -19,6 +19,7 @@ export class AppComponent {
         nextButton: '.swiper-button-next',
         prevButton: '.swiper-button-prev',
         autoplay: 1500,
+        autoplayDisableOnInteraction: false,
         spaceBetween: 30
     });
   }
